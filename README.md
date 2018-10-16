@@ -1,7 +1,7 @@
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products. These were moved from(awesome_osint)[https://github.com/Ph055a/awesome_osint] which has more resources dedicated to various online investigations.
 
-- [Domains_OSINT](#domains_osint)
+
 - [Devices](#devices)
 - [Cached websites](#cached-websites)
 - [Domain and IP Research](#domain-and-ip-research)
