@@ -1,14 +1,6 @@
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products. These were moved from(awesome_osint)[https://github.com/Ph055a/awesome_osint] which has more resources dedicated to various online investigations.
 
-
-- [Devices](####devices)
-- [Cached websites](####cached-websites)
-- [Domain and IP Research](####domain-and-ip-research)
-- [Link Checking](####link-checking)
-- [Similar Sites Search](####similar-sites-search)
-- [Code Search](####code-search)
-
 #### Devices
 - [Wigle](https://www.wigle.net)
 - [Thingful](https://www.thingful.net)
