@@ -1,12 +1,12 @@
-1. [Devices(IOT)](#DevicesIOT)
-1. [Cached websites](#Cachedwebsites)
-1. [Domain and IP Research](#DomainandIPResearch)
-1. [Link Checking](#LinkChecking)
-1. [Similar Sites Search](#SimilarSitesSearch)
-1. [Code Search](#CodeSearch)
-
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products. These were moved from(awesome_osint)[https://github.com/Ph055a/awesome_osint] which has more resources dedicated to various online investigations.
+
+- [Devices(IOT)](#DevicesIOT)
+- [Cached websites](#Cachedwebsites)
+- [Domain and IP Research](#DomainandIPResearch)
+- [Link Checking](#LinkChecking)
+- [Similar Sites Search](#SimilarSitesSearch)
+- [Code Search](#CodeSearch)
 
 ####  1. <a name='DevicesIOT'></a>Devices(IOT)
 - [Wigle](https://www.wigle.net)
