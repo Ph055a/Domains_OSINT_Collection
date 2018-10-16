@@ -1,14 +1,15 @@
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products. These were moved from(awesome_osint)[https://github.com/Ph055a/awesome_osint] which has more resources dedicated to various online investigations.
 
-- [Devices(IOT)](#DevicesIOT)
-- [Cached websites](#Cachedwebsites)
-- [Domain and IP Research](#DomainandIPResearch)
-- [Link Checking](#LinkChecking)
-- [Similar Sites Search](#SimilarSitesSearch)
-- [Code Search](#CodeSearch)
+- [Domains_OSINT](#domains_osint)
+            - [Devices](#devices)
+            - [Cached websites](#cached-websites)
+            - [Domain and IP Research](#domain-and-ip-research)
+            - [Link Checking](#link-checking)
+            - [Similar Sites Search](#similar-sites-search)
+            - [Code Search](#code-search)
 
-####  1. <a name='DevicesIOT'></a>Devices(IOT)
+#### Devices
 - [Wigle](https://www.wigle.net)
 - [Thingful](https://www.thingful.net)
 - [shodan](https://www.shodan.io)
@@ -18,7 +19,7 @@ These are online resources I use to investigate domains and IoT products. These 
 - [World Of VNC](https://www.worldofvnc.net)
 - [Open Signal](https://opensignal.com)
 
-####  2. <a name='Cachedwebsites'></a>Cached websites
+#### Cached websites
 - [Archive.is](http://archive.is/)
 - [CashedPages](http://www.cachedpages.com/)
 - [CachedView](http://cachedview.com/)
@@ -26,7 +27,7 @@ These are online resources I use to investigate domains and IoT products. These 
 - [Wayback Machine](http://archive.org/web/web.php)
 - [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)
 
-####  3. <a name='DomainandIPResearch'></a>Domain and IP Research
+#### Domain and IP Research
 - [Hurrican Electric](https://bgp.he.net/)
 - [Whoishostingthis](https://www.whoishostingthis.com)
 - [Onyphe](https://www.onyphe.io/)
@@ -105,17 +106,17 @@ These are online resources I use to investigate domains and IoT products. These 
 - [You Get Signal](http://www.yougetsignal.com/)
 - [Shared Count](http://www.sharedcount.com/)
 
-####  4. <a name='LinkChecking'></a>Link Checking
+####  Link Checking
 - [Virus Total](https://www.virustotal.com/en/)
 - [Phish Tank](https://www.phishtank.com/)
 
-####  5. <a name='SimilarSitesSearch'></a>Similar Sites Search
+####  Similar Sites Search
 - [SimilarPages](http://www.similarpages.com/)
 - [SimilarSites](http://www.similarsites.com/)
 - [SimilarSiteSearch](http://www.similarsitesearch.com/)
 - [SitesLike](http://www.siteslike.com/)
 
-####  6. <a name='CodeSearch'></a>Code Search
+####  Code Search
 - [NerdyData](https://search.nerdydata.com/)
 - [SearchCode](https://searchcode.com/)
 - [Publicwww](https://publicwww.com/)
