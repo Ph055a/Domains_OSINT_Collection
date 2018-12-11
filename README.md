@@ -11,6 +11,7 @@ These are online resources I use to investigate domains and IoT products.
 - [World Of VNC](https://www.worldofvnc.net)
 - [Open Signal](https://opensignal.com)
 - [FOFA](https://www.fofa.so/?locale=en) 
+- [Binary Edge](https://www.binaryedge.io/)
 
 #### Cached websites
 - [Archive.is](http://archive.is/)
