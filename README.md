@@ -18,6 +18,9 @@ These are online resources I use to investigate domains and IoT products.
 - [Wayback Machine](http://archive.org/web/web.php)
 - [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)
 
+### Certificate Search
+- [crt.sh](https://crt.sh/)
+
 #### Domain and IP Research
 - [Hurrican Electric](https://bgp.he.net/)
 - [Whoishostingthis](https://www.whoishostingthis.com)
