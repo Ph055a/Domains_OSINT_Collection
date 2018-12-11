@@ -1,5 +1,5 @@
 # Domains_OSINT
-These are online resources I use to investigate domains and IoT products. These were moved from(awesome_osint)[https://github.com/Ph055a/awesome_osint] which has more resources dedicated to various online investigations.
+These are online resources I use to investigate domains and IoT products.
 
 #### Devices
 - [Wigle](https://www.wigle.net)
@@ -15,7 +15,6 @@ These are online resources I use to investigate domains and IoT products. These 
 - [Archive.is](http://archive.is/)
 - [CashedPages](http://www.cachedpages.com/)
 - [CachedView](http://cachedview.com/)
-- [Screenshots.com](http://www.screenshots.com/)
 - [Wayback Machine](http://archive.org/web/web.php)
 - [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)
 
@@ -112,3 +111,4 @@ These are online resources I use to investigate domains and IoT products. These 
 - [NerdyData](https://search.nerdydata.com/)
 - [SearchCode](https://searchcode.com/)
 - [Publicwww](https://publicwww.com/)
+- [Snip2Code](http://www.snip2code.com/)
