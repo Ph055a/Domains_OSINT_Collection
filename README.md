@@ -32,14 +32,14 @@ These are online resources I use to investigate domains and IoT products.
 #### Certificate Search
 - [crt.sh](https://crt.sh/)
 
-### SPF Records
+#### SPF Records
 - [dnslytics](https://dnslytics.com/spf-lookup)
 - [MX Toolbox](https://mxtoolbox.com/spf.aspx)
 
 #### ASN Information
 - [Utlra Tools](https://www.ultratools.com/tools/asnInfo)
 
-### DNS / Whois / IP Information
+#### DNS / Whois / IP Information
 - [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
 - [Ultra Tools](https://www.ultratools.com/tools/ipWhoisLookup)
 - [Easy whois](https://www.easywhois.com/)
@@ -63,23 +63,23 @@ These are online resources I use to investigate domains and IoT products.
 - [Domain Big Data](http://domainbigdata.com/)
 - [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
 
-### Tor Information
+#### Tor Information
 - [Exonera Tor](https://exonerator.torproject.org/)
 
-### Domain Blacklist Lookup
+#### Domain Blacklist Lookup
 - [Ultra Tools](https://www.ultratools.com/tools/spamDBLookup)
 
-### Email Test
+#### Email Test
 - [Ultra Tools](https://www.ultratools.com/tools/emailTest)
 
-### SSL
+#### SSL
 - [SSL Labs](https://www.ssllabs.com)
 
-### Subdomains
+#### Subdomains
 - [Find Sub Domains](https://findsubdomains.com)
 - [Domain Crawler](http://www.domaincrawler.com/)
 
-### Site Reputation / Spam / Threat Intel
+#### Site Reputation / Spam / Threat Intel
 - [Scamvoid](http://www.scamvoid.com)
 - [DNSBL](http://www.dnsbl.info/)
 - [Debouncer](https://www.debouncer.com)
@@ -89,7 +89,7 @@ These are online resources I use to investigate domains and IoT products.
 - [Fraud Guard](https://fraudguard.io)
 - [IP Checking](http://www.ipchecking.com/)
 
-### SEO / Website Statistics
+#### SEO / Website Statistics
 - [SEO SiteCheckup](https://seositecheckup.com/)
 - [Follow.net](http://follow.net/)
 - [Search Metrics](https://suite.searchmetrics.com/en/research)
@@ -100,13 +100,13 @@ These are online resources I use to investigate domains and IoT products.
 - [SEMrush](https://www.semrush.com/)
 - [Shared Count](http://www.sharedcount.com/)
 
-### Adsense
+#### Adsense
 - [Analyze ID](http://analyzeid.com/)
 
-### Redirects
+#### Redirects
 - [RedirectDetective](http://redirectdetective.com/)
 
-### Infrustructure
+#### Infrustructure
 - [BuiltWith](http://builtwith.com/)
 - [Whoishostingthis](https://www.whoishostingthis.com)
 - [Dedicated or Not](http://dedicatedornot.com/)
