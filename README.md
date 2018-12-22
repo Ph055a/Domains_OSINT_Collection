@@ -1,19 +1,26 @@
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products.
 
-#### Devices
+#### VIP Multi-Tools
+- [Robtex](https://www.robtex.com/)
+- [IPVoid](http://www.ipvoid.com/)
+- [Central Ops](http://centralops.net/)
+- [NetworkTools](http://network-tools.com/)
+- [Hurrican Electric](https://bgp.he.net/)
+- [ViewDNS.info](http://viewdns.info/)
+- [You Get Signal](http://www.yougetsignal.com/)
+
+#### Things
 - [Wigle](https://www.wigle.net)
 - [Thingful](https://www.thingful.net)
 - [shodan](https://www.shodan.io)
 - [Simple Shodan](https://simple.shodan.io)
-- [ZoomEye](https://www.zoomeye.org/) 
+- [ZoomEye](https://www.zoomeye.org/)
 - [censys](https://censys.io)
 - [World Of VNC](https://www.worldofvnc.net)
 - [Open Signal](https://opensignal.com)
-- [FOFA](https://www.fofa.so/?locale=en) 
 - [Binary Edge](https://www.binaryedge.io/)
 - [Onyphe](https://www.onyphe.io/)
-
 
 #### Cached websites
 - [Archive.is](http://archive.is/)
@@ -22,87 +29,87 @@ These are online resources I use to investigate domains and IoT products.
 - [Wayback Machine](http://archive.org/web/web.php)
 - [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)
 
-### Certificate Search
+#### Certificate Search
 - [crt.sh](https://crt.sh/)
 
-#### Domain and IP Research
-- [Hurrican Electric](https://bgp.he.net/)
-- [Whoishostingthis](https://www.whoishostingthis.com)
-- [Onyphe](https://www.onyphe.io/)
-- [Find Sub Domains](https://findsubdomains.com)
-- [Analyze ID](http://analyzeid.com/)
-- [IP Intel](https://ipintel.io)
-- [SSL Labs](https://www.ssllabs.com)
-- [Whoxy](https://www.whoxy.com)
-- [SpyOnWeb](http://www.spyonweb.com)
-- [DNSBL](http://www.dnsbl.info/)
-- [Debouncer](https://www.debouncer.com)
-- [Reverse Internet](http://reverseinternet.com/)
-- [Scamvoid](http://www.scamvoid.com)
-- [cymon.io](https://cymon.io)
-- [BuiltWith](http://builtwith.com/)
-- [Central Ops](http://centralops.net/)
-- [Dedicated or Not](http://dedicatedornot.com/)
+### SPF Records
+- [dnslytics](https://dnslytics.com/spf-lookup)
+- [MX Toolbox](https://mxtoolbox.com/spf.aspx)
+
+#### ASN Information
+- [Utlra Tools](https://www.ultratools.com/tools/asnInfo)
+
+### DNS / Whois / IP Information
+- [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
+- [Ultra Tools](https://www.ultratools.com/tools/ipWhoisLookup)
+- [Easy whois](https://www.easywhois.com/)
+- [Domain Tools](http://whois.domaintools.com/)
+- [Verisign](http://dnssec-debugger.verisignlabs.com/)
+- [WhoisMind](http://www.whoismind.com/)
+- [Whoisology](https://whoisology.com/)
+- [WhoIsRequest](http://whoisrequest.com/)
+- [Who.is](https://who.is/)
 - [DNSDumpster](https://dnsdumpster.com/)
 - [DNS History](http://dnshistory.org/)
 - [DNSStuff](http://www.dnsstuff.com/)
-- [SEO SiteCheckup](https://seositecheckup.com/)
-- [Search Metrics](https://suite.searchmetrics.com/en/research)
 - [DNS Trail](http://dnstrails.com/)
 - [DNSViz](http://dnsviz.net/)
-- [Fraud Guard](https://fraudguard.io)
+- [IP Intel](https://ipintel.io)
+- [ewhois](https://ewhois.com/)
+- [Infosniper](http://www.infosniper.net/)
+- [intoDNS](http://www.intodns.com/)
+- [Remote DNS Lookup](https://remote.12dt.com/)
+- [Website Informer](http://website.informer.com/)
 - [Domain Big Data](http://domainbigdata.com/)
 - [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
-- [Domain Crawler](http://www.domaincrawler.com/)
-- [Domain History](http://www.domainhistory.net/)
-- [Domain Tools](http://whois.domaintools.com/)
-- [Easy whois](https://www.easywhois.com/)
+
+### Tor Information
 - [Exonera Tor](https://exonerator.torproject.org/)
-- [Follow.net](http://follow.net/)
-- [GraphyStories](http://app.graphystories.com/)
-- [Infosniper](http://www.infosniper.net/)
-- [HypeStat](https://www.hypestat.com/)
-- [intoDNS](http://www.intodns.com/)
-- [IP Checking](http://www.ipchecking.com/)
-- [IP Location](https://www.iplocation.net/)
-- [IP 2 Location](http://www.ip2location.com/demo.aspx)
-- [IPFingerprints](http://www.ipfingerprints.com/)
-- [IPVoid](http://www.ipvoid.com/)
-- [Kloth](http://www.kloth.net/services)
-- [NetworkTools](http://network-tools.com/)
-- [Majestic](https://majestic.com/)
-- [MXToolbox](http://origin.mxtoolbox.com/)
-- [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
-- [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
-- [Open Site Explorer](https://moz.com/researchtools/ose)
-- [PageGlimpse](http://www.pageglimpse.com/)
-- [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking)
+
+### Domain Blacklist Lookup
+- [Ultra Tools](https://www.ultratools.com/tools/spamDBLookup)
+
+### Email Test
+- [Ultra Tools](https://www.ultratools.com/tools/emailTest)
+
+### SSL
+- [SSL Labs](https://www.ssllabs.com)
+
+### Subdomains
+- [Find Sub Domains](https://findsubdomains.com)
+- [Domain Crawler](http://www.domaincrawler.com/)
+
+### Site Reputation / Spam / Threat Intel
+- [Scamvoid](http://www.scamvoid.com)
+- [DNSBL](http://www.dnsbl.info/)
+- [Debouncer](https://www.debouncer.com)
+- [cymon.io](https://cymon.io)
 - [Pulsedive](https://pulsedive.com)
-- [Quick Sprout](https://www.quicksprout.com/)
-- [RedirectDetective](http://redirectdetective.com/)
-- [Remote DNS Lookup](https://remote.12dt.com/)
-- [Robtex](https://www.robtex.com/)
-- [SameID](http://sameid.net/)
-- [SEMrush](https://www.semrush.com/)
-- [SEO Chat Tools](http://tools.seochat.com/)
-- [SmallSEOTools](http://smallseotools.com/)
-- [StatsCrop](http://www.statscrop.com/)
-- [TCPIPUTILS.com](http://www.tcpiputils.com/)
-- [urlQuery](http://urlquery.net/)
 - [URLVoid](http://www.urlvoid.com/)
-- [Website Informer](http://website.informer.com/)
-- [ewhois](https://ewhois.com/)
-- [WhatIsMyIPAddress](http://whatismyipaddress.com/)
-- [Who.is](https://who.is/)
-- [Whois Arin Online](https://whois.arin.net/)
-- [Whoisology](https://whoisology.com/)
-- [WhoisMind](http://www.whoismind.com/)
-- [WhoIsRequest](http://whoisrequest.com/)
-- [w3snoop](http://webboar.com.w3snoop.com/)
-- [Verisign](http://dnssec-debugger.verisignlabs.com/)
-- [ViewDNS.info](http://viewdns.info/)
-- [You Get Signal](http://www.yougetsignal.com/)
+- [Fraud Guard](https://fraudguard.io)
+- [IP Checking](http://www.ipchecking.com/)
+
+### SEO / Website Statistics
+- [SEO SiteCheckup](https://seositecheckup.com/)
+- [Follow.net](http://follow.net/)
+- [Search Metrics](https://suite.searchmetrics.com/en/research)
+- [Majestic](https://majestic.com/)
+- [HypeStat](https://www.hypestat.com)
+- [StatsCrop](http://www.statscrop.com/)
+- [SEO Chat Tools](http://tools.seochat.com/)
+- [SEMrush](https://www.semrush.com/)
 - [Shared Count](http://www.sharedcount.com/)
+
+### Adsense
+- [Analyze ID](http://analyzeid.com/)
+
+### Redirects
+- [RedirectDetective](http://redirectdetective.com/)
+
+### Infrustructure
+- [BuiltWith](http://builtwith.com/)
+- [Whoishostingthis](https://www.whoishostingthis.com)
+- [Dedicated or Not](http://dedicatedornot.com/)
 
 ####  Link Checking
 - [Virus Total](https://www.virustotal.com/en/)
