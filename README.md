@@ -28,6 +28,7 @@ These are online resources I use to investigate domains and IoT products.
 - [CachedView](http://cachedview.com/)
 - [Wayback Machine](http://archive.org/web/web.php)
 - [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)
+- [webrecorder](https://webrecorder.io)
 
 #### Certificate Search
 - [crt.sh](https://crt.sh/)
