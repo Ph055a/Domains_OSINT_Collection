@@ -64,6 +64,7 @@ These are online resources I use to investigate domains and IoT products.
 - [Website Informer](http://website.informer.com/)
 - [Domain Big Data](http://domainbigdata.com/)
 - [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)
+- [Intelx](https://intelx.io/)
 
 #### Tor Information
 - [Exonera Tor](https://exonerator.torproject.org/)
