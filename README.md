@@ -1,6 +1,27 @@
 # Domains_OSINT
 These are online resources I use to investigate domains and IoT products.
 
+- [VIP Multi-Tools](#vip-multi-tools)
+- [Things](#things)
+- [Cached websites](#cached-websites)
+- [Certificate Search](#certificate-search)
+- [SPF Records](#spf-records)
+- [ASN Information](#asn-information)
+- [DNS / Whois / IP Information](#dns-whois-ip-information)
+- [Tor Information](#tor-information)
+- [Domain Blacklist Lookup](#domain-blacklist-lookup)
+- [Email Test](#email-test)
+- [SSL](#ssl)
+- [Subdomains](#subdomains)
+- [Site Reputation / Spam / Threat Intel](#site-reputation-spam-threat-intel)
+- [SEO / Website Statistics](#seo-website-statistics)
+- [Adsense](#adsense)
+- [Redirects](#redirects)
+- [Infrustructure](#infrustructure)
+- [Link Checking](#link-checking)
+- [Similar Sites Search](#similar-sites-search)
+- [Code Search](#code-search)
+
 #### VIP Multi-Tools
 - [Robtex](https://www.robtex.com/)
 - [IPVoid](http://www.ipvoid.com/)
