@@ -60,16 +60,12 @@ These are online resources I use to investigate domains and IoT products.
 - [dnslytics](https://dnslytics.com/spf-lookup)
 - [MX Toolbox](https://mxtoolbox.com/spf.aspx)
 
-#### ASN Information
-- [Utlra Tools](https://www.ultratools.com/tools/asnInfo)
-
 #### DNS / Whois / IP Information
+- [Nslookup](https://www.nslookup.io/)
 - [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
-- [Ultra Tools](https://www.ultratools.com/tools/ipWhoisLookup)
 - [Easy whois](https://www.easywhois.com/)
 - [Domain Tools](http://whois.domaintools.com/)
 - [Verisign](http://dnssec-debugger.verisignlabs.com/)
-- [WhoisMind](http://www.whoismind.com/)
 - [Whoisology](https://whoisology.com/)
 - [WhoIsRequest](http://whoisrequest.com/)
 - [Who.is](https://who.is/)
@@ -91,12 +87,6 @@ These are online resources I use to investigate domains and IoT products.
 #### Tor Information
 - [Exonera Tor](https://exonerator.torproject.org/)
 
-#### Domain Blacklist Lookup
-- [Ultra Tools](https://www.ultratools.com/tools/spamDBLookup)
-
-#### Email Test
-- [Ultra Tools](https://www.ultratools.com/tools/emailTest)
-
 #### SSL
 - [SSL Labs](https://www.ssllabs.com)
 
@@ -105,10 +95,8 @@ These are online resources I use to investigate domains and IoT products.
 - [Domain Crawler](http://www.domaincrawler.com/)
 
 #### Site Reputation / Spam / Threat Intel
-- [Scamvoid](http://www.scamvoid.com)
 - [DNSBL](http://www.dnsbl.info/)
 - [Debouncer](https://www.debouncer.com)
-- [cymon.io](https://cymon.io)
 - [Pulsedive](https://pulsedive.com)
 - [URLVoid](http://www.urlvoid.com/)
 - [Fraud Guard](https://fraudguard.io)
